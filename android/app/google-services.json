@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231060355285",
+    "firebase_url": "https://digital-card-2f67e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "digital-card-2f67e",
+    "storage_bucket": "digital-card-2f67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231060355285:android:c1d9411fce3200148f4a5c",
+        "android_client_info": {
+          "package_name": "com.digicart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231060355285-shj864n7etotb5ak5ke302ml3lbthlbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5FI00MKBo-F_IR2-SQa-acwUpKMaWQAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231060355285-shj864n7etotb5ak5ke302ml3lbthlbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
